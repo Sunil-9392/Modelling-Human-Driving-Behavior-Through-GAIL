@@ -1,0 +1,19 @@
+Modeling Human Driving Behavior through Generative Adversarial Imitation Learning
+
+
+
+
+Operating Mobile
+Backside Visit
+Rapid acceleration
+Speeding
+Tailgating
+Backside Visit
+Harsh braking
+Rapid acceleration
+Harsh cornering
+Rapid acceleration
+Smoking
+Rapid acceleration
+
+1619213853
